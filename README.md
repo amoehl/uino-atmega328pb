@@ -15,7 +15,7 @@ Copy this link into your Arduino IDE.
 
 **https://raw.githubusercontent.com/amoehl/uino-atmega328pb/master/package_atmega328pb_index.json**
 
-Run "Bord Manager" -> Contributed -> Atmega328PB -> _ Install _
+Run "Bord Manager" -> Contributed -> Atmega328PB -> _Install_
 
 ### Hardware
 
