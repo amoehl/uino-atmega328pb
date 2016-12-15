@@ -13,13 +13,13 @@ Arduino IDE 1.6.9 or higher which contains avr-gcc in Version 4.9.2
 ### Install
 Copy this link into your Arduino IDE.
 
-> ** https://raw.githubusercontent.com/hoppel/uino-atmega328pb/master/package_atmega328pb_index.json **
+**https://raw.githubusercontent.com/amoehl/uino-atmega328pb/master/package_atmega328pb_index.json**
 
 Run "Bord Manager" -> Contributed -> Atmega328PB -> _ Install _
 
 ### Hardware
 
 This Package currently supports only my own developed boards. 
-More Information: (https://github.com/hoppel/uino-hardware)
+More Information: https://github.com/amoehl/uino-hardware
 
 
